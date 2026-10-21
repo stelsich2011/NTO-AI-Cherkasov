@@ -1,4 +1,3 @@
-"""Запустите этот файл кнопкой Run в PyCharm для создания submission.csv."""
 from pathlib import Path
 
 from catboost import CatBoostClassifier
@@ -10,8 +9,6 @@ from sklearn.model_selection import StratifiedKFold
 from features import make_features
 from settings import CONFIG, THREADS
 
-
-# Пути отсчитываются от main.py, поэтому рабочая папка PyCharm не важна.
 PROJECT_DIR = Path(__file__).resolve().parent
 TRAIN_PATH = PROJECT_DIR / 'dataset' / 'train.csv'
 TEST_PATH = PROJECT_DIR / 'dataset' / 'test.csv'
@@ -28,11 +25,6 @@ def make_model(spec, seed, threads):
 
 
 def choose_threshold(y, probability):
-    """Сглаживание уменьшает зависимость от единичных пограничных объектов.
-
-    Ищем не случайный пик F1, а устойчивый участок на сетке порогов.
-    Порог всегда определяется по предсказаниям на отложенных строках.
-    """
     grid = np.linspace(0.3, 0.75, 181)
     scores = np.array([f1_score(y, probability >= t, average='macro') for t in grid])
     smooth = np.convolve(scores, np.ones(9) / 9, mode='valid')
@@ -41,12 +33,6 @@ def choose_threshold(y, probability):
 
 
 def validate(train, config, threads):
-    """Оценить ансамбль на отложенных строках и подобрать порог macro F1.
-
-    По очереди обучаемся на четырех частях train и предсказываем пятую.
-    Так каждая строка получает прогноз без обучения на ее target.
-    Итоговые модели для test обучаются отдельно, на всем train.
-    """
     y = train['target'].to_numpy()
     splitter = StratifiedKFold(n_splits=config['folds'], shuffle=True, random_state=config['seed'])
     splits = list(splitter.split(train, y))
@@ -71,7 +57,6 @@ def validate(train, config, threads):
 
 
 def predict(train, test, config, output, threads):
-    """Усреднить вероятности моделей, обученных на ВСЕМ train с разными seed."""
     probability = np.zeros(len(test))
     total_weight = sum(spec['weight'] for spec in config['models'])
     for spec in config['models']:
