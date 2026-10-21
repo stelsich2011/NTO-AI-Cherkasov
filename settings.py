@@ -1,0 +1,36 @@
+THREADS = 8
+
+CONFIG = {
+    'seed': 2026,
+    'folds': 5,
+    'final_seeds': [42, 137, 2026],
+    'models': [
+        {
+            'name': 'physics_depth5',
+            'features': 'physics',
+            'depth': 5,
+            'iterations': 4500,
+            'learning_rate': 0.025,
+            'l2_leaf_reg': 10,
+            'weight': 0.4
+        },
+        {
+            'name': 'extra_depth5',
+            'features': 'extra',
+            'depth': 5,
+            'iterations': 4500,
+            'learning_rate': 0.025,
+            'l2_leaf_reg': 5,
+            'weight': 0.4
+        },
+        {
+            'name': 'extra_depth4',
+            'features': 'extra',
+            'depth': 4,
+            'iterations': 5500,
+            'learning_rate': 0.025,
+            'l2_leaf_reg': 5,
+            'weight': 0.2
+        }
+    ]
+}
