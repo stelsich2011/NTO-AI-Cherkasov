@@ -1,0 +1,11 @@
+Full train physics_depth5, seed=42: 19.5s
+Full train physics_depth5, seed=137: 19.8s
+Full train physics_depth5, seed=2026: 20.6s
+Full train extra_depth5, seed=42: 20.8s
+Full train extra_depth5, seed=137: 14.2s
+Full train extra_depth5, seed=2026: 14.3s
+Full train extra_depth4, seed=42: 14.2s
+Full train extra_depth4, seed=137: 14.1s
+Full train extra_depth4, seed=2026: 14.3s
+Saved output/submission.csv; classes: {1: 2103, 0: 1897}
+Applied final OOF threshold 0.5062500000000001: {1: 2181, 0: 1819}

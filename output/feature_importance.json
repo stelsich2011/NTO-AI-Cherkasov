@@ -1,0 +1,2576 @@
+[
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "material",
+    "importance": 4.8125605439111325
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "printer_model",
+    "importance": 3.3197562135558334
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_surface",
+    "importance": 0.6226105832972495
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "filament_color",
+    "importance": 0.28727765394440347
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.28620148117273037
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_temp_c",
+    "importance": 0.9761738459543083
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_temp_c",
+    "importance": 1.644205490384279
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "print_speed_mm_s",
+    "importance": 0.5579387746843232
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "layer_height_mm",
+    "importance": 0.258397537406524
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "infill_percent",
+    "importance": 0.49702207922238206
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "model_mass_g",
+    "importance": 0.9483608452935718
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "contact_area_cm2",
+    "importance": 0.6238606014895378
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "geometry_complexity",
+    "importance": 2.072500928737885
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "overhang_angle_deg",
+    "importance": 4.857126597265986
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "estimated_time_min",
+    "importance": 1.2158249237024694
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "filament_moisture_pct",
+    "importance": 0.8036880903279667
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "cooling_percent",
+    "importance": 0.5670480117716032
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "ambient_temp_c",
+    "importance": 1.7639457155297578
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "hours_since_maintenance",
+    "importance": 0.9901611691044588
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.6395515731450648
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 9.680347779122911
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.33469728019658396
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.844472576109967
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "cooling_percent_relative",
+    "importance": 2.4006598790869758
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "cooling_percent_deviation",
+    "importance": 4.863116269198586
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.2676482337181987
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "mass_contact_ratio",
+    "importance": 2.558952185570902
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "flow",
+    "importance": 15.659170272726303
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.3243836760492291
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_abs_-10",
+    "importance": 0.5500008920784181
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.102741017518381
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_abs_-5",
+    "importance": 0.8533648517366755
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_5",
+    "importance": 2.31542385715249
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_abs_5",
+    "importance": 3.597669028801497
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_10",
+    "importance": 1.466746965737769
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "bed_abs_10",
+    "importance": 0.8698953115338505
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "speed_material",
+    "importance": 2.2166664571308052
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "adhesion_risk",
+    "importance": 2.68392895427435
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "overhang_cooling",
+    "importance": 0.9938833346444986
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "complex_speed",
+    "importance": 4.815687799572845
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "thin_contact",
+    "importance": 1.3370522109460818
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "layer_complexity",
+    "importance": 0.8662567336720572
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 42,
+    "feature": "time_moisture",
+    "importance": 3.6530217735191184
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "material",
+    "importance": 4.467049080993128
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "printer_model",
+    "importance": 3.3294712155496207
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_surface",
+    "importance": 0.6848061767629853
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "filament_color",
+    "importance": 0.26810233560777746
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.28426606777987745
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_temp_c",
+    "importance": 0.8568989406179078
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_temp_c",
+    "importance": 1.5224301072701187
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "print_speed_mm_s",
+    "importance": 0.5898040300164663
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "layer_height_mm",
+    "importance": 0.2540746199943187
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "infill_percent",
+    "importance": 0.4835680482905524
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "model_mass_g",
+    "importance": 0.9307205713520078
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "contact_area_cm2",
+    "importance": 0.7499729194752881
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "geometry_complexity",
+    "importance": 2.0817291816998096
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "overhang_angle_deg",
+    "importance": 4.747053648193707
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "estimated_time_min",
+    "importance": 1.2668295237119553
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "filament_moisture_pct",
+    "importance": 0.8022861518452564
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "cooling_percent",
+    "importance": 0.503307973545269
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "ambient_temp_c",
+    "importance": 1.7442547268036837
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "hours_since_maintenance",
+    "importance": 1.048056486453881
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.6064100194279968
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 10.046814952633897
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.2981809408156115
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.914644341462877
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "cooling_percent_relative",
+    "importance": 2.3846660629598104
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "cooling_percent_deviation",
+    "importance": 4.8927603657553185
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.30700622615880724
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "mass_contact_ratio",
+    "importance": 2.6623115876767587
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "flow",
+    "importance": 15.7592449610834
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.228131048524697
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_abs_-10",
+    "importance": 0.6250102620529407
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.051522582413573
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_abs_-5",
+    "importance": 1.0577564109911712
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_5",
+    "importance": 2.385436733922673
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_abs_5",
+    "importance": 3.290642846815436
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_10",
+    "importance": 1.3838942591917733
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "bed_abs_10",
+    "importance": 1.0590465876060273
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "speed_material",
+    "importance": 2.1284970821477143
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "adhesion_risk",
+    "importance": 2.655769849557445
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "overhang_cooling",
+    "importance": 1.060944896097493
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "complex_speed",
+    "importance": 4.869612154660888
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "thin_contact",
+    "importance": 1.214347687269417
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "layer_complexity",
+    "importance": 0.84818048780093
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 137,
+    "feature": "time_moisture",
+    "importance": 3.6544858470097212
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "material",
+    "importance": 4.497067681339857
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "printer_model",
+    "importance": 3.363285184967094
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_surface",
+    "importance": 0.596222871799803
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "filament_color",
+    "importance": 0.24009976499107558
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.26352679528065587
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_temp_c",
+    "importance": 0.9616125460556372
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_temp_c",
+    "importance": 1.591287395418112
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "print_speed_mm_s",
+    "importance": 0.5272997422914213
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "layer_height_mm",
+    "importance": 0.26078263895039083
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "infill_percent",
+    "importance": 0.4919270567615416
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "model_mass_g",
+    "importance": 0.8955217935862614
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "contact_area_cm2",
+    "importance": 0.7001986131862781
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "geometry_complexity",
+    "importance": 2.0443461430120546
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "overhang_angle_deg",
+    "importance": 4.858496063267833
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "estimated_time_min",
+    "importance": 1.3101287376336583
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "filament_moisture_pct",
+    "importance": 0.7862013279868073
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "cooling_percent",
+    "importance": 0.519902893076751
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "ambient_temp_c",
+    "importance": 1.8204900318086696
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "hours_since_maintenance",
+    "importance": 1.0142736603338618
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.5907640735724502
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 9.770315969292229
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.31306809212194825
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.232694058985499
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "cooling_percent_relative",
+    "importance": 2.4224996299324735
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "cooling_percent_deviation",
+    "importance": 4.896973996378409
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.27701667124863366
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "mass_contact_ratio",
+    "importance": 2.4593040208950785
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "flow",
+    "importance": 15.503301751349285
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.3965448545217953
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_-10",
+    "importance": 0.5080148111239556
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.220057363832996
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_-5",
+    "importance": 1.0816937885555324
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_5",
+    "importance": 2.4242712964347457
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_5",
+    "importance": 4.094257629811322
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_10",
+    "importance": 1.4695592644764006
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_10",
+    "importance": 0.834949563376982
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "speed_material",
+    "importance": 2.183555667887158
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "adhesion_risk",
+    "importance": 3.0901198857748797
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "overhang_cooling",
+    "importance": 0.9965259797028618
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "complex_speed",
+    "importance": 4.834783005071422
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "thin_contact",
+    "importance": 1.1384762390119232
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "layer_complexity",
+    "importance": 0.893456825713071
+  },
+  {
+    "model": "physics_depth5",
+    "seed": 2026,
+    "feature": "time_moisture",
+    "importance": 3.625124619181151
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "material",
+    "importance": 1.367410796480541
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "printer_model",
+    "importance": 3.5066383586802097
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_surface",
+    "importance": 0.5524830120037661
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "filament_color",
+    "importance": 0.30294352702529487
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.03507396699198045
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_temp_c",
+    "importance": 0.8988331408507048
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_temp_c",
+    "importance": 1.5548359090367172
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "print_speed_mm_s",
+    "importance": 0.7659637845331712
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "layer_height_mm",
+    "importance": 0.0949691382856495
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "infill_percent",
+    "importance": 0.4693713451720373
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "model_mass_g",
+    "importance": 0.7655775641730197
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "contact_area_cm2",
+    "importance": 0.6621354302061438
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "geometry_complexity",
+    "importance": 0.7669711135600724
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "overhang_angle_deg",
+    "importance": 1.7601223840439137
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "estimated_time_min",
+    "importance": 0.9764090702313992
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "filament_moisture_pct",
+    "importance": 0.40565132009264326
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "cooling_percent",
+    "importance": 0.4549945814933172
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "ambient_temp_c",
+    "importance": 1.6945654594056754
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "hours_since_maintenance",
+    "importance": 1.0412057474398515
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.7044008005498766
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 9.811759244718077
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.35165311157855916
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.861071495169269
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "cooling_percent_relative",
+    "importance": 2.2239840819180046
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "cooling_percent_deviation",
+    "importance": 5.189753294409904
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.1337842691369293
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "mass_contact_ratio",
+    "importance": 1.8194616322061472
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "flow",
+    "importance": 4.6391323704900005
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.3575715218277904
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_abs_-10",
+    "importance": 0.6560608453434883
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.562225255362767
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_abs_-5",
+    "importance": 1.098382347482589
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_5",
+    "importance": 2.735568870377968
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_abs_5",
+    "importance": 3.4393320019609726
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "nozzle_abs_10",
+    "importance": 1.6086450392303442
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "bed_abs_10",
+    "importance": 1.0743103281214246
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "speed_material",
+    "importance": 1.2361615046709007
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "adhesion_risk",
+    "importance": 1.8527243357799272
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "overhang_cooling",
+    "importance": 0.8144395603623564
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "complex_speed",
+    "importance": 4.079936036565753
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "thin_contact",
+    "importance": 1.4523619662139702
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "layer_complexity",
+    "importance": 0.6464053083911547
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "time_moisture",
+    "importance": 1.15954446031312
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "relative_flow",
+    "importance": 8.656952762643758
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "complex_overhang",
+    "importance": 4.217854305968582
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "moisture_material",
+    "importance": 2.6514652579129057
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "moisture_duration",
+    "importance": 1.590169125223563
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "relative_flow2",
+    "importance": 4.505001541853288
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "mass_area",
+    "importance": 1.8578805148297979
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 42,
+    "feature": "overhang_layer",
+    "importance": 0.9358511596806918
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "material",
+    "importance": 1.2959210385272089
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "printer_model",
+    "importance": 3.3899915842112205
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_surface",
+    "importance": 0.6135928412226486
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "filament_color",
+    "importance": 0.3008295000965201
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.044165194851905336
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_temp_c",
+    "importance": 0.8835347931551533
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_temp_c",
+    "importance": 1.4389989256678735
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "print_speed_mm_s",
+    "importance": 0.8040242564783044
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "layer_height_mm",
+    "importance": 0.10929171414199818
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "infill_percent",
+    "importance": 0.4736050103726316
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "model_mass_g",
+    "importance": 0.7104285228243056
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "contact_area_cm2",
+    "importance": 0.6886643129104882
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "geometry_complexity",
+    "importance": 0.7839562680072226
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "overhang_angle_deg",
+    "importance": 1.8116002814508292
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "estimated_time_min",
+    "importance": 1.003674807757618
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "filament_moisture_pct",
+    "importance": 0.40557507600816245
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "cooling_percent",
+    "importance": 0.47103745155816595
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "ambient_temp_c",
+    "importance": 1.7204352483830256
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "hours_since_maintenance",
+    "importance": 1.083764130604783
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.6471744069192341
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 10.972305707567575
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.37336229618127365
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.508361264179207
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "cooling_percent_relative",
+    "importance": 2.253054334781548
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "cooling_percent_deviation",
+    "importance": 5.162102841153077
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.12219220610931612
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "mass_contact_ratio",
+    "importance": 1.666792957997026
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "flow",
+    "importance": 4.3324153050494205
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.4332493977762832
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_abs_-10",
+    "importance": 0.6169762688242387
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_-5",
+    "importance": 2.926044160780031
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_abs_-5",
+    "importance": 1.1291370428700884
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_5",
+    "importance": 2.5793023420143375
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_abs_5",
+    "importance": 4.092482951370682
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "nozzle_abs_10",
+    "importance": 1.1854856022470615
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "bed_abs_10",
+    "importance": 0.9538965474755313
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "speed_material",
+    "importance": 1.28297922220229
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "adhesion_risk",
+    "importance": 2.043223410576698
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "overhang_cooling",
+    "importance": 0.8188251526140355
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "complex_speed",
+    "importance": 4.067157503596216
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "thin_contact",
+    "importance": 1.3746508016880075
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "layer_complexity",
+    "importance": 0.652223870632636
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "time_moisture",
+    "importance": 1.1374483479598303
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "relative_flow",
+    "importance": 8.842562594229818
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "complex_overhang",
+    "importance": 4.147499880589245
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "moisture_material",
+    "importance": 2.650263379049493
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "moisture_duration",
+    "importance": 1.6474390407340662
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "relative_flow2",
+    "importance": 4.370787656338241
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "mass_area",
+    "importance": 1.9842783360395317
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 137,
+    "feature": "overhang_layer",
+    "importance": 0.993234212223896
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "material",
+    "importance": 1.3347657378359665
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "printer_model",
+    "importance": 3.13504113672738
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_surface",
+    "importance": 0.6075043861636739
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "filament_color",
+    "importance": 0.27879068318840516
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.05675868620840624
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_temp_c",
+    "importance": 0.8863904854317007
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_temp_c",
+    "importance": 1.4106060040251023
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "print_speed_mm_s",
+    "importance": 0.7213412252522392
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "layer_height_mm",
+    "importance": 0.11325600294110556
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "infill_percent",
+    "importance": 0.4406670684467695
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "model_mass_g",
+    "importance": 0.6476709846262746
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "contact_area_cm2",
+    "importance": 0.6512792256120997
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "geometry_complexity",
+    "importance": 0.7475699876456143
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "overhang_angle_deg",
+    "importance": 1.7236465783439356
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "estimated_time_min",
+    "importance": 0.9035001724158719
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "filament_moisture_pct",
+    "importance": 0.34457360022200156
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "cooling_percent",
+    "importance": 0.4835683341333803
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "ambient_temp_c",
+    "importance": 1.6594423205505018
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "hours_since_maintenance",
+    "importance": 1.0217311665795075
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.6074247302185147
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 10.714227042935462
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.3204086393791562
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.843286706920951
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "cooling_percent_relative",
+    "importance": 2.3223601507262877
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "cooling_percent_deviation",
+    "importance": 5.030557201313476
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.12670050565254062
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "mass_contact_ratio",
+    "importance": 1.8901010500244801
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "flow",
+    "importance": 4.646165805641231
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.4296010142255489
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_-10",
+    "importance": 0.6778595457506521
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_-5",
+    "importance": 2.9087119671385477
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_-5",
+    "importance": 1.0601906028118848
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_5",
+    "importance": 2.819412807439559
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_5",
+    "importance": 3.5836225687107466
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "nozzle_abs_10",
+    "importance": 1.3768116660033745
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "bed_abs_10",
+    "importance": 1.218364349640779
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "speed_material",
+    "importance": 1.2214203102063
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "adhesion_risk",
+    "importance": 1.8872495443595365
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "overhang_cooling",
+    "importance": 0.9092752790822858
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "complex_speed",
+    "importance": 4.244804547974468
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "thin_contact",
+    "importance": 1.374295165150973
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "layer_complexity",
+    "importance": 0.5994621821493271
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "time_moisture",
+    "importance": 1.31938552400858
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "relative_flow",
+    "importance": 7.3708063782221105
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "complex_overhang",
+    "importance": 4.330200682548593
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "moisture_material",
+    "importance": 2.6521551988527503
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "moisture_duration",
+    "importance": 1.5365934812003443
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "relative_flow2",
+    "importance": 5.957952854082795
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "mass_area",
+    "importance": 1.934851088889944
+  },
+  {
+    "model": "extra_depth5",
+    "seed": 2026,
+    "feature": "overhang_layer",
+    "importance": 0.9176376223888715
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "material",
+    "importance": 1.2769933894857273
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "printer_model",
+    "importance": 3.4409313150584926
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_surface",
+    "importance": 0.537592057755089
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "filament_color",
+    "importance": 0.24609249378097373
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.019164510183219446
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_temp_c",
+    "importance": 0.8983637795652935
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_temp_c",
+    "importance": 1.550224252874355
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "print_speed_mm_s",
+    "importance": 0.7263006790287367
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "layer_height_mm",
+    "importance": 0.08171021507058261
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "infill_percent",
+    "importance": 0.4338587239153577
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "model_mass_g",
+    "importance": 0.5949735297208907
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "contact_area_cm2",
+    "importance": 0.5964191647750403
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "geometry_complexity",
+    "importance": 0.6314211318396579
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "overhang_angle_deg",
+    "importance": 1.670457770353758
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "estimated_time_min",
+    "importance": 0.8682112422153018
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "filament_moisture_pct",
+    "importance": 0.33618044558974625
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "cooling_percent",
+    "importance": 0.38641218397487404
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "ambient_temp_c",
+    "importance": 1.591185805531867
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "hours_since_maintenance",
+    "importance": 0.9620925439600665
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.471577109710406
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 11.359899446606594
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.29574490861890507
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.780806787844501
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "cooling_percent_relative",
+    "importance": 2.2812194150696468
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "cooling_percent_deviation",
+    "importance": 4.976738254059476
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.11850876909862301
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "mass_contact_ratio",
+    "importance": 2.097688891748572
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "flow",
+    "importance": 4.593530843980293
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.3066307998065607
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_abs_-10",
+    "importance": 0.4965185900874993
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.372622595131224
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_abs_-5",
+    "importance": 0.935535740016387
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_abs_5",
+    "importance": 2.586678955276526
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_abs_5",
+    "importance": 3.919094540423382
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "nozzle_abs_10",
+    "importance": 1.4145271458785083
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "bed_abs_10",
+    "importance": 0.8103209906503184
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "speed_material",
+    "importance": 1.1386213425472191
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "adhesion_risk",
+    "importance": 2.0455330486719165
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "overhang_cooling",
+    "importance": 0.6746311085635006
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "complex_speed",
+    "importance": 4.02495099549876
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "thin_contact",
+    "importance": 1.1961201810319921
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "layer_complexity",
+    "importance": 0.4939622065223557
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "time_moisture",
+    "importance": 1.0716184677582805
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "relative_flow",
+    "importance": 9.83837816477481
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "complex_overhang",
+    "importance": 4.298028816283604
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "moisture_material",
+    "importance": 2.6833613835727763
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "moisture_duration",
+    "importance": 1.6891969294508522
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "relative_flow2",
+    "importance": 4.703640265222801
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "mass_area",
+    "importance": 1.711471205116066
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 42,
+    "feature": "overhang_layer",
+    "importance": 0.7642568662986142
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "material",
+    "importance": 1.314352375174767
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "printer_model",
+    "importance": 3.51051276919707
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_surface",
+    "importance": 0.52726283665697
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "filament_color",
+    "importance": 0.24733082121546945
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.025169171623910486
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_temp_c",
+    "importance": 0.9091837509850242
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_temp_c",
+    "importance": 1.4781254764755274
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "print_speed_mm_s",
+    "importance": 0.6701424259888987
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "layer_height_mm",
+    "importance": 0.07399250546527554
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "infill_percent",
+    "importance": 0.3889197315822341
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "model_mass_g",
+    "importance": 0.6017004023872878
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "contact_area_cm2",
+    "importance": 0.5443068671315608
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "geometry_complexity",
+    "importance": 0.6653802418922771
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "overhang_angle_deg",
+    "importance": 1.6804849179936536
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "estimated_time_min",
+    "importance": 0.9049175325764706
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "filament_moisture_pct",
+    "importance": 0.30824324236507256
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "cooling_percent",
+    "importance": 0.3576337402387788
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "ambient_temp_c",
+    "importance": 1.6200361115597064
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "hours_since_maintenance",
+    "importance": 0.9168760737957125
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.49618620525584856
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 11.650130949164927
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.2792127713715047
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_temp_c_deviation",
+    "importance": 6.045021475930838
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "cooling_percent_relative",
+    "importance": 2.18009008028568
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "cooling_percent_deviation",
+    "importance": 4.968243711932831
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.09766669323711707
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "mass_contact_ratio",
+    "importance": 1.7695525502907363
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "flow",
+    "importance": 4.785791111378169
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.2635770632806271
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_abs_-10",
+    "importance": 0.5203413315944945
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.191224554243097
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_abs_-5",
+    "importance": 0.8831149879756536
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_abs_5",
+    "importance": 2.679308790161232
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_abs_5",
+    "importance": 3.4529257585557067
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "nozzle_abs_10",
+    "importance": 1.3838443182929978
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "bed_abs_10",
+    "importance": 0.957790036018227
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "speed_material",
+    "importance": 1.158775367224478
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "adhesion_risk",
+    "importance": 2.196549900215355
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "overhang_cooling",
+    "importance": 0.7674260167496588
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "complex_speed",
+    "importance": 4.099210905635747
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "thin_contact",
+    "importance": 1.211924077093115
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "layer_complexity",
+    "importance": 0.5011764938981031
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "time_moisture",
+    "importance": 1.146491305937883
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "relative_flow",
+    "importance": 8.288587859033427
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "complex_overhang",
+    "importance": 4.239128361128795
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "moisture_material",
+    "importance": 2.701028743480024
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "moisture_duration",
+    "importance": 1.6144358674387056
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "relative_flow2",
+    "importance": 6.144889623304015
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "mass_area",
+    "importance": 1.792512881680197
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 137,
+    "feature": "overhang_layer",
+    "importance": 0.7892692139051687
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "material",
+    "importance": 1.2820974330311288
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "printer_model",
+    "importance": 3.302311360995865
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_surface",
+    "importance": 0.5464510608524962
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "filament_color",
+    "importance": 0.27000404651402166
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_diameter_mm",
+    "importance": 0.021780453298276672
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_temp_c",
+    "importance": 0.934619347604979
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_temp_c",
+    "importance": 1.6020199899183183
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "print_speed_mm_s",
+    "importance": 0.6144465116807735
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "layer_height_mm",
+    "importance": 0.0755579232852771
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "infill_percent",
+    "importance": 0.41394416651935706
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "model_mass_g",
+    "importance": 0.5442830632685312
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "contact_area_cm2",
+    "importance": 0.6315967345822384
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "geometry_complexity",
+    "importance": 0.5849622966896559
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "overhang_angle_deg",
+    "importance": 1.6966809993832077
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "estimated_time_min",
+    "importance": 0.918289810208252
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "filament_moisture_pct",
+    "importance": 0.29418062581199206
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "cooling_percent",
+    "importance": 0.3396754635895351
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "ambient_temp_c",
+    "importance": 1.6265467120107946
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "hours_since_maintenance",
+    "importance": 0.9942621346265302
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_temp_c_relative",
+    "importance": 0.43447090614801875
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_temp_c_deviation",
+    "importance": 11.251843331803574
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_temp_c_relative",
+    "importance": 0.33811545249792113
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_temp_c_deviation",
+    "importance": 5.657121350485524
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "cooling_percent_relative",
+    "importance": 2.300078480488453
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "cooling_percent_deviation",
+    "importance": 4.892861397774249
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "layer_nozzle_ratio",
+    "importance": 0.13728979231981167
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "mass_contact_ratio",
+    "importance": 1.696005694641835
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "flow",
+    "importance": 4.533569475758392
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_abs_-10",
+    "importance": 1.537842900432156
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_abs_-10",
+    "importance": 0.5613761141312315
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_abs_-5",
+    "importance": 3.349635398843273
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_abs_-5",
+    "importance": 0.9614874721104943
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_abs_5",
+    "importance": 2.706959754700985
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_abs_5",
+    "importance": 3.852872417152161
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "nozzle_abs_10",
+    "importance": 1.2056775811928506
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "bed_abs_10",
+    "importance": 0.9366127632132254
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "speed_material",
+    "importance": 1.194210246191014
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "adhesion_risk",
+    "importance": 1.746000237540163
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "overhang_cooling",
+    "importance": 0.8208513348338852
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "complex_speed",
+    "importance": 4.170538759094247
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "thin_contact",
+    "importance": 1.4004167515825057
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "layer_complexity",
+    "importance": 0.4743728937364712
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "time_moisture",
+    "importance": 1.1621072155113465
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "relative_flow",
+    "importance": 8.841193010121932
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "complex_overhang",
+    "importance": 4.180261784283976
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "moisture_material",
+    "importance": 2.73910058272471
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "moisture_duration",
+    "importance": 1.6567834542198294
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "relative_flow2",
+    "importance": 5.627399301359239
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "mass_area",
+    "importance": 2.1512641448169196
+  },
+  {
+    "model": "extra_depth4",
+    "seed": 2026,
+    "feature": "overhang_layer",
+    "importance": 0.787969866418398
+  }
+]
